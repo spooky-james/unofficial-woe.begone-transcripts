@@ -5,4 +5,6 @@
   <polygon points="0,100 40,40 60,100" fill="#dc322f" stroke="#444" stroke-width="2"/>
   <!-- Right mountain -->
   <polygon points="40,100 70,30 100,100" fill="#dc322f" stroke="#444" stroke-width="2"/>
+  <!-- Large white W centered -->
+  <text x="50" y="65" text-anchor="middle" font-size="40" fill="#fff" font-family="Arial, sans-serif">W</text>
 </svg>
