@@ -4,10 +4,10 @@ sources:
   shortname: Sources
   path:      sources.html
   local:     true
-  WOE:
+  WBG:
   name:      WOE.BEGONE
-  shortname: WOE
-  path:      WOE.html
+  shortname: WBG
+  path:      WBG.html
   local:     true
 incomplete:
   name:      List of Incomplete Transcripts
